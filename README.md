@@ -1,0 +1,2 @@
+scalavro-example
+================
